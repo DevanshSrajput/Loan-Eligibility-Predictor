@@ -7,6 +7,18 @@ Welcome to the **Smart Loan Predictor AI** - a machine learning project that pre
 ## 🎭 What's This All About?
 
 Ever wondered if a bank would approve your loan without actually going through the soul-crushing process of applying? Well, wonder no more! This AI-powered tool uses the magic of machine learning to predict your loan eligibility with the accuracy of a fortune teller... but with actual math! 🔮📊
+---
+
+## 🎬 Video Walkthrough
+
+> <b>Watch the magic happen:</b>
+>
+> [![Demo Video](https://github.com/DevanshSrajput/Loan-Eligibility-Predictor/blob/main/Loan-Eligibility-Predictor.png)](https://youtu.be/vCdvNYMyxzU)
+>
+> <i>Click the thumbnail above to see a full walkthrough of the Smart loan Predictor AI in action!</i>
+
+---
+
 
 ### 🌟 Features That'll Make You Go "WOW!"
 
